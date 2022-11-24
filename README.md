@@ -1,4 +1,3 @@
-###Hello World
 
 <!--
 **ht20a061/ht20a061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
